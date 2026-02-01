@@ -13,12 +13,14 @@ An automated system for generating Reddit content calendars that drive engagemen
 ## Quick Setup
 
 ### 1. Get Google Gemini API Key (100% Free!)
+
 - Go to https://makersuite.google.com/app/apikey
 - Sign in with Google account (no payment method needed!)
 - Create API key (starts with `AIza...`)
 - See [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions
 
 ### 2. Install Dependencies
+
 ```bash
 # Create virtual environment (recommended)
 python -m venv venv
@@ -30,17 +32,21 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure API Key
+
 Create `.env` file in project root:
+
 ```
 GOOGLE_API_KEY=AIza-your-actual-key-here
 ```
 
 ### 4. Run Application
+
 ```bash
 uvicorn main:app --reload
 ```
 
 ### 5. Open Browser
+
 Go to: **http://localhost:8000**
 
 **For detailed setup instructions, see [SETUP_GUIDE.md](SETUP_GUIDE.md)**
@@ -89,4 +95,3 @@ Go to: **http://localhost:8000**
 ├── data/                   # Sample data and storage
 └── requirements.txt
 ```
-

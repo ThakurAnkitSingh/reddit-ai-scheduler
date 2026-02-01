@@ -56,6 +56,7 @@ Enter the subreddits where you want to post:
 - Add multiple subreddits relevant to your audience
 
 **Example subreddits:**
+
 - `startups`
 - `entrepreneur`
 - `marketing`
@@ -70,6 +71,7 @@ Keywords are the topics you want to target:
 - **Keyword**: The actual keyword phrase (e.g., "best ai presentation maker")
 
 **Example keywords:**
+
 - `best ai presentation maker`
 - `pitch deck generator`
 - `tools for consultants`
@@ -117,11 +119,13 @@ Each entry shows:
 ### Post Details
 
 **Posts (P1, P2, etc.)**:
+
 - Original posts that start conversations
 - Include title and full content
 - Posted by different personas across different subreddits
 
 **Replies (C1, C2, etc.)**:
+
 - Responses to posts
 - Posted 2-24 hours after the original post
 - Made by different personas to create natural conversations
@@ -144,6 +148,7 @@ Each entry shows:
 ### Quality Score
 
 The quality score (out of 10) indicates:
+
 - **9-10**: Excellent - Natural, engaging content
 - **7-8**: Good - Minor improvements possible
 - **5-6**: Fair - Some issues detected
@@ -152,6 +157,7 @@ The quality score (out of 10) indicates:
 ### Warnings
 
 The system may show warnings for:
+
 - **Similar Topics**: Posts with overlapping content on the same day
 - **Posts Too Close**: Posts scheduled too close together
 - **Low Reply Ratio**: Not enough replies for engagement
@@ -163,26 +169,31 @@ The system may show warnings for:
 ## 💡 Best Practices
 
 ### 1. Persona Diversity
+
 - Create personas with different backgrounds and perspectives
 - Each persona should have a unique voice
 - Mix of roles (consultants, founders, students, etc.)
 
 ### 2. Subreddit Selection
+
 - Choose subreddits relevant to your audience
 - Mix popular and niche subreddits
 - Avoid overposting in the same subreddit
 
 ### 3. Keyword Strategy
+
 - Use 10-20 keywords for variety
 - Focus on topics your audience searches for
 - Mix broad and specific keywords
 
 ### 4. Post Frequency
+
 - 3-5 posts per week is optimal
 - Too many posts can look spammy
 - Too few posts reduces visibility
 
 ### 5. Content Review
+
 - Always review generated content before posting
 - Ensure it matches your brand voice
 - Edit if needed to add personal touches
@@ -192,17 +203,20 @@ The system may show warnings for:
 ## 🎯 Tips for Success
 
 ### Content Quality
+
 - ✅ Content is AI-generated but should feel natural
 - ✅ Each persona has a distinct voice and perspective
 - ✅ Posts are contextually relevant to subreddits
 - ✅ Replies create natural conversation flow
 
 ### Engagement Strategy
+
 - Replies are scheduled 2-24 hours after posts
 - Different personas reply to create authentic discussions
 - Content subtly mentions your product without being promotional
 
 ### Scheduling
+
 - Posts are distributed Monday-Friday
 - Avoid weekends for better engagement
 - Times are optimized for visibility
@@ -266,21 +280,27 @@ The system may show warnings for:
 ## ❓ Frequently Asked Questions
 
 ### Q: Can I edit the generated content?
+
 **A**: Yes! The content is a starting point. Always review and edit as needed.
 
 ### Q: How many personas should I create?
+
 **A**: 2-5 personas work best. More personas = more variety.
 
 ### Q: Can I use the same subreddit multiple times?
+
 **A**: Yes, but the system prevents overposting. Mix of subreddits is recommended.
 
 ### Q: What if I don't like the generated content?
+
 **A**: Click "Generate Calendar" again. Each generation is different.
 
 ### Q: How accurate are the quality scores?
+
 **A**: They're guidelines. Use your judgment - you know your audience best.
 
 ### Q: Can I generate multiple weeks at once?
+
 **A**: Generate one week at a time, then use "Generate Next Week" for subsequent weeks.
 
 ---
@@ -302,4 +322,3 @@ If you encounter issues:
 You now know how to use Reddit Mastermind. Start by loading sample data to see how it works, then create your own content calendar!
 
 **Happy posting! 🚀**
-
